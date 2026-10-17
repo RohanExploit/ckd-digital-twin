@@ -13,6 +13,7 @@
 | Resource | URL |
 |---|---|
 | 🌐 Live App (Vercel) | https://ckd-app-theta.vercel.app/ |
+| ⚙️ Backend API (Render) | https://ckd-digital-twin-backend.onrender.com |
 | 🎬 Demo Video (YouTube) | https://youtu.be/-ySHHWU06ro?si=tx2IX1GVqfBJoRwl |
 
 ---
