@@ -1,7 +1,7 @@
 # CKD Digital Twin — Policy Simulator & Patient Risk Predictor
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?logo=vercel)](https://ckd-app-theta.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?logo=vercel)](https://ckd-digital-twin.vercel.app/)
 [![YouTube Demo](https://img.shields.io/badge/Demo%20Video-YouTube-red?logo=youtube)](https://youtu.be/-ySHHWU06ro?si=tx2IX1GVqfBJoRwl)
 
 > **Team Hare** | Dhanuja KSE · Rohan Gaikwad · Priyanka Jadhav · Sanjay
@@ -12,7 +12,7 @@
 
 | Resource | URL |
 |---|---|
-| 🌐 Live App (Vercel) | https://ckd-app-theta.vercel.app/ |
+| 🌐 Live App (Vercel) | https://ckd-digital-twin.vercel.app/ |
 | ⚙️ Backend API (Render) | https://ckd-digital-twin-backend.onrender.com |
 | 🎬 Demo Video (YouTube) | https://youtu.be/-ySHHWU06ro?si=tx2IX1GVqfBJoRwl |
 
