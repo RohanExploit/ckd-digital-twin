@@ -4,8 +4,9 @@
 // `data` payload on success and throws an Error (with .field if available)
 // on failure, so calling hooks/components can use plain try/catch.
 
-// SESUDAH
-const API_BASE_URL = 'https://zesty-spirit-production.up.railway.app';
+const API_BASE_URL =
+  import.meta.env.VITE_API_BASE_URL ||
+  'https://ckd-digital-twin-backend.onrender.com';
 
 async function request(path, options = {}) {
   let res;
